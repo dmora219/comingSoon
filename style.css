@@ -1,0 +1,16 @@
+body{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.logo{
+   text-align: center;
+   margin-top: 2rem;
+}
+.athlete{
+   height: 200px;
+   width: 100%;
+   background: blue url("https://assets.codepen.io/6060109/athlete-girl.png") no-repeat right top;
+   background-size: cover;
+   margin-top: 10px;
+}
