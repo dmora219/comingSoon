@@ -68,3 +68,19 @@ p{
    width: 70%;
 
 }
+.input-container{
+   display: flex;
+   justify-content: center;
+   margin-top: 20px;
+}
+#emailInput{
+   padding: 15px 0 15px 24px;
+   border: 1px solid black;
+   width: 60%;
+   color: #333333;
+}
+#btn-go{
+   background: #333333;
+   color: white;
+   padding: 15px;
+}
